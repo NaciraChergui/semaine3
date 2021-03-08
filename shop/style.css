@@ -1,0 +1,38 @@
+header{
+    background-color: #008080;
+    padding: 7px;
+    margin-bottom: 50px;
+    font-size: 40px;
+}
+
+header a {
+    color: white;
+    font-size: 1.7em;
+    font-weight: bold;
+    text-decoration:none;
+}
+
+}
+    margin:20px ;
+    text-decoration: underline orange;
+    
+}
+
+h2{
+    margin: 20px;
+}
+
+article{
+    background-color:#F7F4F4;
+    
+    margin: 20px;
+}
+
+    a{
+        color:#008080;
+    }
+
+
+h3{
+    color:#D6754C ;
+}

@@ -1,0 +1,48 @@
+header{
+    background-color: black;
+    color: white;
+    display: flex;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+main{
+    background-image:url(https://media.discordapp.net/attachments/808695604200210434/816250282526244874/cafe2.jpeg?width=1337&height=891);background-size:cover;
+    position: relative;
+    background-size: 100%;
+    background-origin: padding-box;
+    background-repeat: no-repeat;
+
+}
+section{
+text-align: center;
+color: white;
+
+}
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 20px;
+    text-decoration: none;
+}
+
+li{
+    float: right;
+    text-decoration: none;
+}
+
+nav{
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    text-decoration: none;
+}
+.deux{
+    background-image:url(https://media.discordapp.net/attachments/808695604200210434/816250283540873237/service.jpeg?width=1337&height=892) ;
+}
+
+section{
+    
+}
